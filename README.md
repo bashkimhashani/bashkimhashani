@@ -17,7 +17,8 @@ I am a software engineering student at the University of Prishtina, learning and
   <img alt="MySQL" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
   <img alt="PostgreSQL" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
   <img alt="Git" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  <img alt="LaTeX" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg"/>
+  <img alt="LaTeX Bird" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg"/>
+
 
   
 </p>
